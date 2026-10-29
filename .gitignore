@@ -1,0 +1,6 @@
+.env
+state/bot.log
+state/*.tmp
+__pycache__/
+*.pyc
+.DS_Store

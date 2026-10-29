@@ -1,0 +1,2324 @@
+[
+    {
+        "id": "popular_1",
+        "url": "https://www.goat.com/sneakers/off-white-out-of-office-chocolate-cream-omia189s25lea002-6g0a",
+        "title": "Off-White Out of Office 'Chocolate Cream'",
+        "brand": "Off-White",
+        "model": "Off-White Out of Office",
+        "price": "$480",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/227/622/original/1560943_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/227/627/original/1560943_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/227/637/original/1560943_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/227/638/original/1560943_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/227/646/original/1560943_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/227/645/original/1560943_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/227/648/original/1560943_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/227/653/original/1560943_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "OMIA189S25LEA002",
+        "release_date": "01-02-2025",
+        "type": "Sneakers",
+        "isPopular": true
+      },
+      {
+        "id": "popular_2",
+        "url": "https://www.goat.com/sneakers/a-ma-maniere-x-air-jordan-4-retro-violet-ore-dv6773-220",
+        "title": "A Ma Maniére x Air Jordan 4 Retro 'Violet Ore'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$194",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/581/388/original/1015173_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/581/394/original/1015173_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/581/397/original/1015173_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/581/398/original/1015173_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/581/402/original/1015173_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/581/409/original/1015173_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/581/410/original/1015173_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/081/581/413/original/1015173_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DV6773",
+        "release_date": "11-18-2022",
+        "type": "Sneakers",
+        "isPopular": true
+      },
+      {
+        "id": "popular_3",
+        "url": "https://www.goat.com/sneakers/1906-silver-gold-metallic-m1906ad",
+        "title": "1906A 'Silver Gold Metallic'",
+        "brand": "New Balance",
+        "model": "1906",
+        "price": "$163",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/529/710/original/1412509_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/529/655/original/1412509_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/529/666/original/1412509_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/529/668/original/1412509_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/529/669/original/1412509_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/529/671/original/1412509_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/529/673/original/1412509_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/529/708/original/1412509_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "M1906AD",
+        "release_date": "07-25-2024",
+        "type": "Sneakers",
+        "isPopular": true
+      },
+      {
+        "id": "popular_4",
+        "url": "https://www.goat.com/sneakers/yeezy-boost-350-v2-static-non-reflective-2023-ef2905-23",
+        "title": "Yeezy Boost 350 V2 'Static Non-Reflective' 2023",
+        "brand": "Yeezy",
+        "model": "Yeezy Boost 350",
+        "price": "$208",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/048/801/original/1254501_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/048/793/original/1254501_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/048/797/original/1254501_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/048/794/original/1254501_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/048/791/original/1254501_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/048/788/original/1254501_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/048/786/original/1254501_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/048/785/original/1254501_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "EF2905",
+        "release_date": "08-22-2023",
+        "type": "Sneakers",
+        "isPopular": true
+      },
+      {
+        "id": "popular_5",
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-sashiko-denim-fn7670-493",
+        "title": "Air Jordan 1 Low 'World Make Japan'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$163",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/603/392/original/1255243_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/603/390/original/1255243_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/603/384/original/1255243_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/603/386/original/1255243_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/603/383/original/1255243_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/603/378/original/1255243_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/603/376/original/1255243_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/603/379/original/1255243_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FN7670",
+        "release_date": "09-10-2023",
+        "type": "Sneakers",
+        "isPopular": true
+      },
+      {
+        "id": "popular_6",
+        "url": "https://www.goat.com/sneakers/amiri-skel-top-low-ma-quad-debossed-vintage-blue-amfosr1115-496",
+        "title": "Amiri Skel Top Low 'MA Quad Debossed - Vintage Blue'",
+        "brand": "Amiri",
+        "model": "Amiri Skel Top",
+        "price": "$550",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/107/523/949/original/AMFOSR1115_496.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/099/506/507/original/1090932_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/107/309/144/original/1492955_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/075/356/029/original/1005392_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/194/739/original/1476375_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/085/740/611/original/996941_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/107/523/949/original/AMFOSR1115_496.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/104/005/516/original/1478830_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "AMFOSR1115",
+        "release_date": "",
+        "isPopular": true
+      },
+      {
+        "id": "popular_7",
+        "url": "https://www.goat.com/sneakers/amiri-skel-top-low-black-white-pf22mfs003-004",
+        "title": "Amiri Skel Top Low 'Black White'",
+        "brand": "Amiri",
+        "model": "Amiri Skel Top",
+        "price": "$394",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/740/616/original/996941_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/740/617/original/996941_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/740/620/original/996941_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/740/624/original/996941_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/740/625/original/996941_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/740/627/original/996941_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/740/629/original/996941_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/085/740/630/original/996941_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "PF22MFS003",
+        "release_date": "",
+        "isPopular": true
+      },
+      {
+        "id": "popular_8",
+        "url": "https://www.goat.com/sneakers/amiri-skel-top-low-black-white-pxmfs002-004",
+        "title": "Amiri Skel Top Low 'Black White'",
+        "brand": "Amiri",
+        "model": "Amiri Skel Top",
+        "price": "$360",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/506/521/original/1090932_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/506/523/original/1090932_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/506/522/original/1090932_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/506/525/original/1090932_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/506/529/original/1090932_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/506/528/original/1090932_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/506/534/original/1090932_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/506/536/original/1090932_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "PXMFS002",
+        "release_date": "",
+        "isPopular": true
+      },
+      {
+        "url": "https://www.goat.com/sneakers/amiri-wmns-skel-top-low-black-white-pxwfs002-004",
+        "title": "Amiri Wmns Skel Top Low 'Black White - White Bones' 2023",
+        "brand": "Amiri",
+        "model": "Amiri Skel Top",
+        "price": "$509",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/146/397/original/1253845_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/146/396/original/1253845_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/146/395/original/1253845_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/146/398/original/1253845_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/146/385/original/1253845_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/146/384/original/1253845_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/146/383/original/1253845_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/146/375/original/1253845_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "PXWFS002",
+        "release_date": "05-02-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/amiri-skel-top-low-black-white-2023-amfosr1098-004",
+        "title": "Amiri Skel Top Low 'Black White' 2023",
+        "brand": "Amiri",
+        "model": "Amiri Skel Top",
+        "price": "$458",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/994/121/original/1492958_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/994/119/original/1492958_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/994/117/original/1492958_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/994/120/original/1492958_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/994/123/original/1492958_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/994/127/original/1492958_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/994/128/original/1492958_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/994/133/original/1492958_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "AMFOSR1098",
+        "release_date": "12-02-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/gucci-tennis-1977-ebony-606111-hvk20-9766",
+        "title": "Gucci Tennis 1977 'Ebony'",
+        "brand": "Gucci",
+        "model": "Gucci Tennis 1977",
+        "price": "$675",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/924/919/original/639396_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/924/918/original/639396_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/924/921/original/639396_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/924/929/original/639396_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/924/930/original/639396_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/924/938/original/639396_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/924/939/original/639396_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/924/940/original/639396_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "606111",
+        "release_date": "03-02-2020"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/gucci-tennis-1977-denim-606111-2kq10-4463",
+        "title": "Gucci Tennis 1977 'Blue Ivory'",
+        "brand": "Gucci",
+        "model": "Gucci Tennis 1977",
+        "price": "$536",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/066/731/045/original/606111_2KQ10_4463.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/079/501/290/original/494949_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/171/315/original/1126302_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/078/447/017/original/264430_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/096/096/459/original/663577_JFB00_9022.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/101/163/322/original/1432431_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/059/096/871/original/680154_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/106/024/644/original/705818_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "606111",
+        "release_date": "12-02-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/gucci-rhython-leather-sneaker-logo-500877-drw00-9522",
+        "title": "Gucci Rhython Leather Sneaker 'Logo'",
+        "brand": "Gucci",
+        "model": "Gucci Rhyton",
+        "price": "$916",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/445/238/original/264433_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/445/240/original/264433_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/445/241/original/264433_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/445/242/original/264433_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/445/245/original/264433_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/445/247/original/264433_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/445/250/original/264433_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/445/253/original/264433_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "500877",
+        "release_date": "10-02-2017"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/balenciaga-wmns-track-trainer-grey-lilac-542436-w1gb4-1465",
+        "title": "Balenciaga Wmns Track Trainer 'Grey Lilac'",
+        "brand": "Balenciaga",
+        "model": "Balenciaga Track Trainer",
+        "price": "$623",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/039/244/147/original/542436_W1GB4_1465.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/080/759/910/original/450303_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/067/561/694/original/855312_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/109/853/520/original/1610251_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/076/974/755/original/887535_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/094/138/953/original/910172_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/071/333/228/original/899721_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/078/084/399/original/826217_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "542436",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/balenciaga-track-542023-w1gb1-9059",
+        "title": "Balenciaga Track Sneaker 'White Orange'",
+        "brand": "Balenciaga",
+        "model": "Balenciaga Track Trainer",
+        "price": "$605",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/018/787/original/450305_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/018/786/original/450305_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/018/782/original/450305_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/018/781/original/450305_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/018/779/original/450305_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/070/995/537/original/450305_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/070/995/532/original/450305_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/070/995/533/original/450305_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "542023",
+        "release_date": "07-10-2019"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/balenciaga-track-led-sneaker-black-555036-w2gb1-1000",
+        "title": "Balenciaga Track LED Sneaker 'Black'",
+        "brand": "Balenciaga",
+        "model": "Balenciaga Track",
+        "price": "$1500",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/076/974/759/original/887535_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/076/974/761/original/887535_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/076/974/756/original/887535_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/076/974/757/original/887535_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/076/974/754/original/887535_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/076/974/753/original/887535_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/076/974/750/original/887535_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/076/974/751/original/887535_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "555036",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/balenciaga-wmns-track-sneaker-clear-sole-pink-647741-w3bm4-5000",
+        "title": "Balenciaga Wmns Track Sneaker 'Clear Sole - Pink'",
+        "brand": "Balenciaga",
+        "model": "Balenciaga Track",
+        "price": "$647",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/608/690/original/907905_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/608/692/original/907905_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/608/691/original/907905_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/608/693/original/907905_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/608/694/original/907905_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/608/695/original/907905_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/608/697/original/907905_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/608/696/original/907905_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "647741",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/balenciaga-track-sneaker-black-white-542023-w3ac1-1090",
+        "title": "Balenciaga Track Sneaker 'Black White'",
+        "brand": "Balenciaga",
+        "model": "Balenciaga Track",
+        "price": "$680",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/060/119/447/original/778245_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/060/119/445/original/778245_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/060/119/448/original/778245_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/060/119/449/original/778245_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/060/119/450/original/778245_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/060/119/539/original/778245_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/060/119/631/original/778245_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/060/119/633/original/778245_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "542023",
+        "release_date": "01-02-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-purple-suede-dv5464-500",
+        "title": "Dunk Low SB 'Purple Suede'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$174",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/395/original/1131743_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/394/original/1131743_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/390/original/1131743_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/392/original/1131743_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/393/original/1131743_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/387/original/1131743_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/389/original/1131743_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/388/original/1131743_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DV5464",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-noise-aqua-dv5429-800",
+        "title": "Dunk Low SB 'Orange Emerald Rise'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$149",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/150/original/1253954_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/151/original/1253954_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/147/original/1253954_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/146/original/1253954_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/142/original/1253954_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/138/original/1253954_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/143/original/1253954_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/092/057/139/original/1253954_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DV5429",
+        "release_date": "08-26-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-deep-royal-vintage-green-hf3704-400",
+        "title": "Dunk Low Pro SB 'Deep Royal Vintage Green'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$157",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/982/312/original/1321533_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/982/314/original/1321533_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/982/317/original/1321533_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/982/316/original/1321533_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/982/319/original/1321533_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/982/318/original/1321533_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/982/320/original/1321533_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/982/324/original/1321533_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "HF3704",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-white-gum-cd2563-101",
+        "title": "Dunk Low SB 'White Gum'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$157",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/179/996/original/1024165_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/179/995/original/1024165_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/179/992/original/1024165_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/179/991/original/1024165_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/179/993/original/1024165_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/179/989/original/1024165_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/179/988/original/1024165_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/179/987/original/1024165_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CD2563",
+        "release_date": "01-25-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-trocad-ro-gardens-fv5926-200",
+        "title": "Dunk Low SB 'Trocadéro Gardens'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$152",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/250/392/original/1407226_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/250/403/original/1407226_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/250/393/original/1407226_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/250/402/original/1407226_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/250/407/original/1407226_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/250/406/original/1407226_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/250/405/original/1407226_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/250/409/original/1407226_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FV5926",
+        "release_date": "07-19-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-club-58-bq6817-401",
+        "title": "Dunk Low Pro SB 'Gulf'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$265",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/692/463/original/698770_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/692/464/original/698770_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/692/456/original/698770_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/692/458/original/698770_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/692/453/original/698770_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/692/454/original/698770_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/692/455/original/698770_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/049/692/460/original/698770_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "BQ6817",
+        "release_date": "02-28-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-pro-iso-sb-triple-black-fj1674-001",
+        "title": "Dunk Low Pro SB 'Triple Black'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$164",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/013/278/original/1447400_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/013/277/original/1447400_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/013/286/original/1447400_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/013/284/original/1447400_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/013/292/original/1447400_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/013/289/original/1447400_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/013/291/original/1447400_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/013/295/original/1447400_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FJ1674",
+        "release_date": "10-02-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-court-purple-bq6817-500",
+        "title": "Dunk Low SB 'Court Purple'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$144",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/181/404/original/699721_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/186/337/original/699721_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/186/339/original/699721_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/186/338/original/699721_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/186/353/original/699721_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/186/354/original/699721_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/186/359/original/699721_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/186/363/original/699721_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "BQ6817",
+        "release_date": "01-24-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-pro-sb-fog-bq6817-010",
+        "title": "Dunk Low Pro SB 'Fog'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$200",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/767/108/original/838715_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/767/110/original/838715_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/767/109/original/838715_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/767/107/original/838715_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/767/105/original/838715_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/767/106/original/838715_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/767/104/original/838715_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/767/103/original/838715_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "BQ6817",
+        "release_date": "11-23-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-navy-gum-fj1674-400",
+        "title": "Dunk Low Pro SB 'Navy Gum'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$153",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/835/579/original/1335379_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/835/582/original/1335379_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/835/589/original/1335379_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/835/593/original/1335379_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/835/598/original/1335379_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/835/599/original/1335379_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/835/603/original/1335379_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/835/610/original/1335379_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FJ1674",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-st-patrick-s-day-bq6817-303",
+        "title": "Dunk Low SB 'St. Patrick’s Day'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$179",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/858/450/original/886846_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/858/462/original/886846_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/858/467/original/886846_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/858/471/original/886846_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/858/465/original/886846_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/858/466/original/886846_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/858/470/original/886846_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/858/469/original/886846_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "BQ6817",
+        "release_date": "06-02-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-bart-simpson-bq6817-602",
+        "title": "Dunk Low Pro SB 'Bart Simpson'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$186",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/069/934/804/original/895763_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/069/934/810/original/895763_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/069/934/803/original/895763_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/069/934/805/original/895763_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/069/934/802/original/895763_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/069/934/799/original/895763_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/069/934/797/original/895763_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/069/934/800/original/895763_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "BQ6817",
+        "release_date": "07-23-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-hyper-royal-malachite-hf3704-001",
+        "title": "Dunk Low Pro SB 'Hyper Royal Malachite'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$155",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/621/630/original/1359771_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/621/627/original/1359771_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/621/625/original/1359771_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/621/626/original/1359771_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/621/628/original/1359771_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/621/629/original/1359771_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/621/632/original/1359771_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/621/631/original/1359771_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "HF3704",
+        "release_date": "04-25-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-sb-acg-celadon-bq6817-301",
+        "title": "Dunk Low SB 'ACG Celadon'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$201",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/332/598/original/751070_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/332/623/original/751070_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/332/608/original/751070_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/332/604/original/751070_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/332/609/original/751070_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/332/610/original/751070_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/332/614/original/751070_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/332/615/original/751070_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "BQ6817",
+        "release_date": "04-11-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/dunk-low-pro-sb-fruity-pack-cherry-dm0807-600",
+        "title": "Dunk Low Pro SB 'Fruity Pack - Cherry'",
+        "brand": "Nike",
+        "model": "Dunk SB",
+        "price": "$158",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/335/755/original/937843_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/335/756/original/937843_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/335/754/original/937843_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/335/750/original/937843_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/335/753/original/937843_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/335/757/original/937843_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/335/747/original/937843_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/072/335/746/original/937843_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DM0807",
+        "release_date": "07-10-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/cactus-plant-flea-market-x-air-force-1-low-premium-white-2024-cpfm-af1-wht-24",
+        "title": "Cactus Plant Flea Market x Air Force 1 Low Premium 'White' 2024",
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "price": "$399",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/501/860/original/1414378_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/501/863/original/1414378_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/501/861/original/1414378_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/501/872/original/1414378_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/501/873/original/1414378_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/501/874/original/1414378_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/501/886/original/1414378_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/501/885/original/1414378_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FQ7069",
+        "release_date": "05-08-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/cactus-plant-flea-market-x-air-force-1-low-premium-black-2024-cpfm-af1-blk-24",
+        "title": "Cactus Plant Flea Market x Air Force 1 Low Premium 'Black' 2024",
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "price": "$675",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/477/658/original/1414380_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/477/664/original/1414380_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/477/668/original/1414380_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/477/670/original/1414380_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/477/677/original/1414380_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/477/679/original/1414380_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/477/685/original/1414380_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/477/689/original/1414380_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "HJ8463",
+        "release_date": "05-08-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/cactus-plant-flea-market-x-air-force-1-low-premium-moss-fq7069-300",
+        "title": "Cactus Plant Flea Market x Air Force 1 Low Premium 'Moss'",
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "price": "$650",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/511/original/1414379_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/512/original/1414379_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/515/original/1414379_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/516/original/1414379_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/519/original/1414379_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/526/original/1414379_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/528/original/1414379_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/534/original/1414379_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FQ7069",
+        "release_date": "05-02-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/travis-scott-x-wmns-air-jordan-1-retro-low-og-sp-canary-dz4137-700",
+        "title": "Travis Scott x Wmns Air Jordan 1 Retro Low OG SP 'Canary'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$334",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/990/669/original/1339725_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/990/668/original/1339725_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/990/672/original/1339725_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/990/666/original/1339725_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/990/665/original/1339725_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/990/676/original/1339725_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/990/674/original/1339725_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/990/667/original/1339725_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DZ4137",
+        "release_date": "05-26-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/fragment-design-x-travis-scott-x-air-jordan-1-retro-low-dm7866-140",
+        "title": "Fragment Design x Travis Scott x Air Jordan 1 Retro Low",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$1180",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/059/084/576/original/767449_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/059/084/575/original/767449_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/059/084/573/original/767449_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/059/084/572/original/767449_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/059/084/569/original/767449_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/059/084/570/original/767449_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/059/084/568/original/767449_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/059/084/566/original/767449_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DM7866",
+        "release_date": "08-14-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/cactus-plant-flea-market-x-air-flea-2-faded-spruce-dv7164-300",
+        "title": "Cactus Plant Flea Market x Air Flea 2 'Faded Spruce'",
+        "brand": "Nike",
+        "model": "Air Flea 2",
+        "price": "$390",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/551/456/original/1256149_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/551/450/original/1256149_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/551/454/original/1256149_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/551/452/original/1256149_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/551/453/original/1256149_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/551/448/original/1256149_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/551/449/original/1256149_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/094/551/451/original/1256149_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DV7164",
+        "release_date": "10-19-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/travis-scott-x-air-jordan-1-low-og-sp-velvet-brown-dm7866-202",
+        "title": "Travis Scott x Air Jordan 1 Retro Low OG SP 'Velvet Brown'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$339",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/746/791/original/1419903_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/746/790/original/1419903_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/746/795/original/1419903_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/746/796/original/1419903_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/746/792/original/1419903_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/746/794/original/1419903_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/746/797/original/1419903_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/746/799/original/1419903_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DM7866",
+        "release_date": "12-22-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/travis-scott-x-air-jordan-1-low-og-sp-black-phantom-dm7866-001",
+        "title": "Travis Scott x Air Jordan 1 Retro Low OG SP 'Black Phantom'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$553",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/011/983/original/1006990_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/011/986/original/1006990_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/011/985/original/1006990_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/011/987/original/1006990_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/011/988/original/1006990_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/011/990/original/1006990_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/011/991/original/1006990_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/011/992/original/1006990_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DM7866",
+        "release_date": "12-16-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/jordan-jumpman-jack-tr-muslin-bright-cactus-fz8117-102",
+        "title": "Travis Scott x Jordan Jumpman Jack TR 'Bright Cactus'",
+        "brand": "Air Jordan",
+        "model": "Jordan Jumpman Jack",
+        "price": "$200",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/903/original/1426088_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/908/original/1426088_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/904/original/1426088_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/912/original/1426088_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/910/original/1426088_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/911/original/1426088_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/909/original/1426088_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/913/original/1426088_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FZ8117",
+        "release_date": "05-01-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/travis-scott-x-jordan-cut-the-check-tr-sail-fz8117-100",
+        "title": "Travis Scott x Jordan Jumpman Jack TR 'Sail'",
+        "brand": "Air Jordan",
+        "model": "Jordan Jumpman Jack",
+        "price": "$470",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/212/832/original/1252833_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/212/835/original/1252833_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/212/833/original/1252833_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/212/841/original/1252833_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/212/845/original/1252833_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/212/846/original/1252833_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/212/850/original/1252833_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/212/859/original/1252833_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FZ8117",
+        "release_date": "05-01-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/jordan-jumpman-jack-tr-taupe-haze-fz8117-204",
+        "title": "Travis Scott x Jordan Jumpman Jack TR 'Dark Mocha'",
+        "brand": "Air Jordan",
+        "model": "Jordan Jumpman Jack",
+        "price": "$280",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/397/139/original/1322928_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/397/196/original/1322928_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/397/141/original/1322928_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/397/138/original/1322928_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/397/140/original/1322928_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/397/155/original/1322928_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/397/154/original/1322928_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/105/397/153/original/1322928_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FZ8117",
+        "release_date": "11-27-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/travis-scott-x-jordan-jumpman-jack-tr-university-red-fz8117-101",
+        "title": "Travis Scott x Jordan Jumpman Jack TR 'University Red'",
+        "brand": "Air Jordan",
+        "model": "Jordan Jumpman Jack",
+        "price": "$439",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/305/998/original/1367520_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/001/original/1367520_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/305/997/original/1367520_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/000/original/1367520_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/009/original/1367520_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/007/original/1367520_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/013/original/1367520_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/306/012/original/1367520_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FZ8117",
+        "release_date": "05-11-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/travis-scott-x-air-force-1-low-cactus-jack-cn2405-900",
+        "title": "Travis Scott x Air Force 1 Low 'Cactus Jack'",
+        "brand": "Nike",
+        "model": "Air Force 1",
+        "price": "$350",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/492/676/original/545834_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/492/675/original/545834_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/492/672/original/545834_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/492/668/original/545834_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/492/667/original/545834_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/492/666/original/545834_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/492/665/original/545834_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/492/664/original/545834_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CN2405",
+        "release_date": "11-17-2019"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-bred-reimagined-fv5029-006",
+        "title": "Air Jordan 4 Retro 'Bred Reimagined'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$199",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/777/584/original/1293064_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/777/585/original/1293064_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/198/original/1293064_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/199/original/1293064_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/203/original/1293064_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/211/original/1293064_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/212/original/1293064_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/213/original/1293064_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FV5029",
+        "release_date": "02-18-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-white-thunder-fq8138-001",
+        "title": "Air Jordan 4 Retro 'White Thunder'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$235",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/345/047/original/1333222_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/345/046/original/1333222_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/345/048/original/1333222_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/345/049/original/1333222_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/345/068/original/1333222_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/345/053/original/1333222_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/345/050/original/1333222_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/345/061/original/1333222_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FQ8138",
+        "release_date": "08-25-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-military-blue-2024-fv5029-141",
+        "title": "Air Jordan 4 Retro 'Military Blue' 2024",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$182",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/440/983/original/1253639_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/440/982/original/1253639_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/066/884/original/1253639_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/440/979/original/1253639_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/440/978/original/1253639_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/440/976/original/1253639_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/440/977/original/1253639_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/440/980/original/1253639_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FV5029",
+        "release_date": "05-05-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-thunder-2023-dh6927-017",
+        "title": "Air Jordan 4 Retro 'Thunder' 2023",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$270",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/042/596/original/1124754_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/042/595/original/1124754_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/042/593/original/1124754_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/042/589/original/1124754_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/042/592/original/1124754_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/042/588/original/1124754_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/042/587/original/1124754_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/042/586/original/1124754_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DH6927",
+        "release_date": "05-14-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-air-jordan-4-retro-sail-aq9129-170",
+        "title": "Wmns Air Jordan 4 Retro 'Metallic Gold'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$242",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/611/115/original/1223666_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/611/116/original/1223666_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/611/129/original/1223666_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/611/123/original/1223666_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/611/126/original/1223666_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/611/125/original/1223666_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/611/128/original/1223666_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/098/611/130/original/1223666_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "AQ9129",
+        "release_date": "03-10-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-se-gs-craft-dv2262-021",
+        "title": "Air Jordan 4 Retro SE Craft 'Photon Dust'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$236",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/862/045/original/1103562_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/862/046/original/1103562_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/862/047/original/1103562_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/862/050/original/1103562_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/862/052/original/1103562_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/862/053/original/1103562_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/862/055/original/1103562_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/862/061/original/1103562_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DV2262",
+        "release_date": "02-12-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-air-jordan-4-retro-frozen-moments-aq9129-001",
+        "title": "Wmns Air Jordan 4 Retro 'Frozen Moments'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$306",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/513/737/original/1200353_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/513/735/original/1200353_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/513/736/original/1200353_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/513/733/original/1200353_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/513/729/original/1200353_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/513/728/original/1200353_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/513/727/original/1200353_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/513/730/original/1200353_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "AQ9129",
+        "release_date": "08-27-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-air-jordan-4-retro-orchid-aq9129-501",
+        "title": "Wmns Air Jordan 4 Retro 'Orchid'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$288",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/296/100/original/1394973_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/296/106/original/1394973_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/296/105/original/1394973_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/296/101/original/1394973_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/296/107/original/1394973_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/296/109/original/1394973_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/296/111/original/1394973_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/296/112/original/1394973_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "AQ9129",
+        "release_date": "10-27-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-air-jordan-4-retro-seafoam-aq9129-103",
+        "title": "Wmns Air Jordan 4 Retro 'Seafoam'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$234",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/084/368/716/original/952731_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/084/368/719/original/952731_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/084/368/714/original/952731_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/084/368/715/original/952731_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/084/368/711/original/952731_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/084/368/712/original/952731_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/084/368/713/original/952731_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/084/368/717/original/952731_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "AQ9129",
+        "release_date": "02-25-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-retro-low-og-mocha-cz0790-102",
+        "title": "Air Jordan 1 Retro Low OG 'Mocha'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$173",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/845/124/original/1308778_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/845/121/original/1308778_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/845/125/original/1308778_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/845/123/original/1308778_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/845/122/original/1308778_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/845/127/original/1308778_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/845/143/original/1308778_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/845/144/original/1308778_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CZ0790",
+        "release_date": "09-22-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-retro-low-og-obsidian-unc-cz0790-400",
+        "title": "Air Jordan 1 Retro Low OG 'Obsidian UNC'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$157",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/336/429/original/1411254_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/336/430/original/1411254_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/336/434/original/1411254_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/336/436/original/1411254_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/336/440/original/1411254_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/336/435/original/1411254_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/336/438/original/1411254_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/336/441/original/1411254_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CZ0790",
+        "release_date": "03-30-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-retro-low-og-game-royal-cz0790-140",
+        "title": "Air Jordan 1 Retro Low OG 'Game Royal'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$156",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/855/original/1394984_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/861/original/1394984_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/854/original/1394984_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/857/original/1394984_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/860/original/1394984_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/856/original/1394984_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/863/original/1394984_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/104/574/862/original/1394984_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CZ0790",
+        "release_date": "12-01-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-retro-low-og-rookie-of-the-year-cz0790-107",
+        "title": "Air Jordan 1 Retro Low OG 'Rookie of the Year'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$162",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/063/701/original/1411262_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/063/702/original/1411262_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/063/700/original/1411262_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/063/705/original/1411262_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/063/704/original/1411262_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/063/703/original/1411262_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/063/706/original/1411262_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/106/063/710/original/1411262_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CZ0790",
+        "release_date": "04-19-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-retro-low-og-black-toe-2023-cz0790-106",
+        "title": "Air Jordan 1 Retro Low OG 'Black Toe'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$151",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/089/144/193/original/1163623_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/089/144/195/original/1163623_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/089/144/197/original/1163623_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/089/144/200/original/1163623_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/089/144/205/original/1163623_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/089/144/206/original/1163623_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/089/144/207/original/1163623_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/089/144/209/original/1163623_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CZ0790",
+        "release_date": "08-05-2023"
+      },
+      
+      {
+        "url": "https://www.goat.com/sneakers/wmns-air-jordan-1-low-white-wolf-grey-dc0774-105",
+        "title": "Wmns Air Jordan 1 Low 'White Wolf Grey'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$153",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/367/012/original/776547_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/367/016/original/776547_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/367/017/original/776547_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/367/044/original/776547_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/367/027/original/776547_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/367/034/original/776547_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/367/041/original/776547_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/102/367/040/original/776547_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DC0774",
+        "release_date": "07-16-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-retro-low-og-shadow-2024-cz0790-003",
+        "title": "Air Jordan 1 Retro Low OG 'Shadow' 2024",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$152",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/944/970/original/1305543_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/944/969/original/1305543_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/944/971/original/1305543_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/944/967/original/1305543_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/944/973/original/1305543_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/944/975/original/1305543_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/944/974/original/1305543_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/944/978/original/1305543_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CZ0790",
+        "release_date": "05-12-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-gs-georgetown-553560-146",
+        "title": "Air Jordan 1 Low 'Georgetown'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$154",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/630/096/original/1596496_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/630/097/original/1596496_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/630/101/original/1596496_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/630/098/original/1596496_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/630/103/original/1596496_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/630/100/original/1596496_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/630/104/original/1596496_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/630/102/original/1596496_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553560",
+        "release_date": "03-21-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-retro-low-og-atmosphere-grey-cz0790-101",
+        "title": "Air Jordan 1 Retro Low OG 'Atmosphere Grey'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$165",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/887/846/original/1116437_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/887/854/original/1116437_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/887/849/original/1116437_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/887/853/original/1116437_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/887/857/original/1116437_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/887/855/original/1116437_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/887/856/original/1116437_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/091/887/860/original/1116437_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CZ0790",
+        "release_date": "08-26-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-bred-toe-2-0-553558-161",
+        "title": "Air Jordan 1 Low 'Bred Toe 2.0'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$149",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/479/original/1289686_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/478/original/1289686_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/480/original/1289686_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/483/original/1289686_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/487/original/1289686_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/484/original/1289686_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/485/original/1289686_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/486/original/1289686_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": "09-19-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/rui-hachimura-x-air-jordan-1-retro-low-og-cranes-hv8293-100",
+        "title": "Rui Hachimura x Air Jordan 1 Retro Low OG 'Cranes'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$154",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/426/236/original/1542563_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/426/242/original/1542563_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/426/241/original/1542563_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/426/243/original/1542563_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/426/244/original/1542563_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/426/295/original/1542563_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/426/289/original/1542563_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/426/287/original/1542563_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "HV8293",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-midnight-navy-553558-141",
+        "title": "Air Jordan 1 Low 'Midnight Navy'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$156",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/491/542/original/1425093_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/491/545/original/1425093_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/491/543/original/1425093_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/491/544/original/1425093_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/491/579/original/1425093_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/491/546/original/1425093_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/491/581/original/1425093_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/491/580/original/1425093_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-triple-white-2022-553558-136",
+        "title": "Air Jordan 1 Low 'Triple White' 2022",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$156",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/917/543/original/1031874_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/917/546/original/1031874_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/917/539/original/1031874_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/917/545/original/1031874_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/917/540/original/1031874_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/917/541/original/1031874_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/917/544/original/1031874_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/917/542/original/1031874_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": "09-02-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-shattered-backboard-alternate-553558-081",
+        "title": "Air Jordan 1 Low 'Shattered Backboard Alternate'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$148",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/926/960/original/1601077_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/926/962/original/1601077_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/926/963/original/1601077_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/926/961/original/1601077_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/926/964/original/1601077_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/926/965/original/1601077_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/926/970/original/1601077_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/926/971/original/1601077_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-se-diamond-dh6931-001",
+        "title": "Air Jordan 1 Low SE 'Diamond'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$155",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/067/655/865/original/888081_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/067/655/866/original/888081_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/067/655/864/original/888081_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/067/655/861/original/888081_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/067/655/863/original/888081_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/067/655/862/original/888081_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/067/655/857/original/888081_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/067/655/858/original/888081_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DH6931",
+        "release_date": "02-10-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-retro-low-og-bleached-coral-cz0790-061",
+        "title": "Air Jordan 1 Retro Low OG 'Bleached Coral'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$130",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/353/898/original/936422_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/353/904/original/936422_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/353/902/original/936422_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/353/903/original/936422_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/353/905/original/936422_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/353/907/original/936422_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/353/909/original/936422_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/353/910/original/936422_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CZ0790",
+        "release_date": "07-03-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-shadow-toe-553558-052",
+        "title": "Air Jordan 1 Low 'Shadow Toe'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$159",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/897/707/original/926171_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/897/708/original/926171_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/897/702/original/926171_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/897/704/original/926171_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/897/705/original/926171_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/897/703/original/926171_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/897/700/original/926171_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/897/701/original/926171_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": "06-17-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-air-jordan-1-low-aluminum-dc0774-142",
+        "title": "Wmns Air Jordan 1 Low 'Aluminum'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$150",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/685/651/original/1561508_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/685/700/original/1561508_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/685/645/original/1561508_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/685/650/original/1561508_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/685/648/original/1561508_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/685/707/original/1561508_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/685/696/original/1561508_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/109/685/697/original/1561508_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DC0774",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-se-sail-archaeo-brown-hf1567-200",
+        "title": "Air Jordan 1 Low SE 'Sail Archaeo Brown'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$152",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/683/233/original/1469431_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/683/245/original/1469431_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/683/246/original/1469431_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/683/247/original/1469431_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/683/249/original/1469431_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/683/248/original/1469431_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/683/250/original/1469431_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/683/254/original/1469431_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "HF1567",
+        "release_date": "08-21-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-white-indigo-haze-553558-145",
+        "title": "Air Jordan 1 Low 'White Indigo Haze'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$152",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/787/189/original/1593118_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/787/190/original/1593118_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/787/191/original/1593118_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/787/192/original/1593118_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/787/193/original/1593118_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/787/196/original/1593118_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/787/198/original/1593118_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/110/787/205/original/1593118_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": "03-02-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-air-jordan-1-low-panda-dc0774-101",
+        "title": "Wmns Air Jordan 1 Low 'Panda'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$146",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/844/878/original/1169692_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/844/874/original/1169692_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/844/875/original/1169692_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/844/877/original/1169692_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/844/894/original/1169692_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/844/893/original/1169692_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/844/892/original/1169692_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/844/891/original/1169692_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DC0774",
+        "release_date": "03-11-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-retro-low-og-university-red-cz0790-161",
+        "title": "Air Jordan 1 Retro Low OG 'University Red'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$146",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/097/original/1217027_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/098/original/1217027_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/100/original/1217027_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/102/original/1217027_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/103/original/1217027_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/106/original/1217027_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/104/original/1217027_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/093/829/108/original/1217027_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CZ0790",
+        "release_date": "10-14-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-se-washed-denim-cz8455-100",
+        "title": "Air Jordan 1 Low SE 'Washed Denim'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$161",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/042/787/375/original/656795_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/042/787/379/original/656795_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/042/787/384/original/656795_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/042/787/381/original/656795_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/042/787/386/original/656795_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/042/787/392/original/656795_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/042/787/393/original/656795_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/042/787/403/original/656795_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CZ8455",
+        "release_date": "09-08-2020"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-gold-swoosh-553558-172",
+        "title": "Air Jordan 1 Low 'Gold Swoosh'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$148",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/773/112/original/1424280_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/773/111/original/1424280_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/773/113/original/1424280_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/773/127/original/1424280_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/773/128/original/1424280_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/773/129/original/1424280_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/773/126/original/1424280_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/773/125/original/1424280_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": "06-12-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-bred-toe-553558-612",
+        "title": "Air Jordan 1 Low 'Bred Toe'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$156",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/063/257/275/original/837275_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/063/257/272/original/837275_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/063/257/271/original/837275_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/063/257/270/original/837275_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/063/257/268/original/837275_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/063/257/267/original/837275_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/063/257/269/original/837275_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/063/257/264/original/837275_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": "12-09-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-cyber-ck3022-003",
+        "title": "Air Jordan 1 Low 'Cyber'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$190",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/891/993/original/591888_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/891/996/original/591888_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/891/997/original/591888_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/891/995/original/591888_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/891/998/original/591888_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/892/002/original/591888_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/892/003/original/591888_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/892/006/original/591888_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CK3022",
+        "release_date": "06-10-2020"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-palomino-553558-215",
+        "title": "Air Jordan 1 Low 'Palomino'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$157",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/970/131/original/1147192_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/970/134/original/1147192_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/970/135/original/1147192_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/970/136/original/1147192_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/970/138/original/1147192_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/970/139/original/1147192_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/970/140/original/1147192_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/086/970/142/original/1147192_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-reverse-bred-553558-606",
+        "title": "Air Jordan 1 Low 'Reverse Bred'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$149",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/212/802/original/651098_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/212/806/original/651098_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/212/807/original/651098_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/212/808/original/651098_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/212/809/original/651098_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/212/811/original/651098_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/212/814/original/651098_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/083/212/820/original/651098_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": "09-30-2020"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-green-toe-553558-371",
+        "title": "Air Jordan 1 Low 'Green Toe'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$223",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/717/723/original/826072_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/717/722/original/826072_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/717/720/original/826072_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/717/719/original/826072_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/717/718/original/826072_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/717/721/original/826072_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/717/712/original/826072_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/062/717/713/original/826072_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": "11-20-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-gs-mushroom-ib8861-151",
+        "title": "Air Jordan 1 Low 'Mushroom'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$152",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/109/132/122/original/IB8861_151.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/890/902/original/1560828_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/347/682/original/1556310_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/021/221/original/1635306_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/023/021/original/1447389_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/108/196/609/original/1487425_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/350/264/original/IO2038_001.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/109/908/017/original/1557903_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "IB8861",
+        "release_date": "03-25-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-green-glow-553558-131",
+        "title": "Air Jordan 1 Low 'Green Glow'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$147",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/862/200/original/1401469_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/862/202/original/1401469_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/862/203/original/1401469_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/862/201/original/1401469_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/862/204/original/1401469_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/862/221/original/1401469_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/862/223/original/1401469_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/862/222/original/1401469_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": "03-23-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-pine-green-553558-301",
+        "title": "Air Jordan 1 Low 'Pine Green'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$249",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/759/732/original/577605_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/759/730/original/577605_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/759/729/original/577605_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/759/727/original/577605_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/759/726/original/577605_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/759/725/original/577605_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/759/721/original/577605_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/080/759/722/original/577605_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "553558",
+        "release_date": "03-02-2020"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-1-low-se-christmas-dq8422-300",
+        "title": "Air Jordan 1 Low SE 'Christmas'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 1 Low",
+        "price": "$157",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/735/668/original/1058557_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/735/667/original/1058557_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/735/666/original/1058557_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/735/665/original/1058557_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/735/669/original/1058557_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/735/664/original/1058557_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/735/662/original/1058557_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/079/735/663/original/1058557_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DQ8422",
+        "release_date": "10-28-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-3-retro-black-cat-2025-ct8532-001",
+        "title": "Air Jordan 3 Retro 'Black Cat' 2025",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 3",
+        "price": "$257",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/168/869/original/1394988_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/168/878/original/1394988_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/168/868/original/1394988_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/168/877/original/1394988_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/168/871/original/1394988_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/168/875/original/1394988_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/168/870/original/1394988_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/168/874/original/1394988_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CT8532",
+        "release_date": "01-12-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/j-balvin-x-air-jordan-3-retro-rio-fn0344-001",
+        "title": "J. Balvin x Air Jordan 3 Retro 'Rio'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 3",
+        "price": "$313",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/168/529/original/1253635_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/168/527/original/1253635_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/168/532/original/1253635_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/168/534/original/1253635_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/168/552/original/1253635_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/168/536/original/1253635_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/168/546/original/1253635_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/168/543/original/1253635_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FN0344",
+        "release_date": "05-23-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-3-retro-cement-grey-ct8532-106",
+        "title": "Air Jordan 3 Retro 'Cement Grey'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 3",
+        "price": "$157",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/217/227/original/1335391_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/217/228/original/1335391_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/217/231/original/1335391_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/217/226/original/1335391_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/217/229/original/1335391_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/217/230/original/1335391_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/217/250/original/1335391_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/103/217/252/original/1335391_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CT8532",
+        "release_date": "09-01-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-3-retro-palomino-ct8532-102",
+        "title": "Air Jordan 3 Retro 'Palomino'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 3",
+        "price": "$196",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/793/713/original/1163346_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/793/715/original/1163346_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/793/719/original/1163346_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/793/718/original/1163346_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/793/720/original/1163346_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/793/722/original/1163346_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/793/721/original/1163346_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/090/793/724/original/1163346_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CT8532",
+        "release_date": "07-30-2023"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-3-retro-georgetown-ct8532-40",
+        "title": "Air Jordan 3 Retro 'Georgetown'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 3",
+        "price": "$235",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/329/675/original/723608_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/329/677/original/723608_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/329/678/original/723608_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/329/676/original/723608_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/329/692/original/723608_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/329/691/original/723608_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/332/002/original/723608_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/332/003/original/723608_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CT8532",
+        "release_date": "03-21-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-3-retro-pine-green-ct8532-030",
+        "title": "Air Jordan 3 Retro 'Pine Green'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 3",
+        "price": "$236",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/061/755/490/original/819009_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/061/755/494/original/819009_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/061/755/484/original/819009_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/061/755/483/original/819009_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/061/755/487/original/819009_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/061/755/481/original/819009_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/061/755/480/original/819009_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/061/755/477/original/819009_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CT8532",
+        "release_date": "10-31-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-3-retro-summit-white-hydrogen-blue-ct8532-101",
+        "title": "Air Jordan 3 Retro 'Lucky Shorts'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 3",
+        "price": "$162",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/396/347/original/1411267_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/396/345/original/1411267_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/396/348/original/1411267_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/396/344/original/1411267_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/396/349/original/1411267_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/396/351/original/1411267_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/396/350/original/1411267_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/396/352/original/1411267_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CT8532",
+        "release_date": "02-23-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-3-retro-dark-iris-ct8532-105",
+        "title": "Air Jordan 3 Retro 'Dark Iris'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 3",
+        "price": "$258",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/718/017/original/834455_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/718/020/original/834455_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/718/026/original/834455_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/718/028/original/834455_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/718/029/original/834455_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/718/030/original/834455_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/073/718/031/original/834455_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/076/753/713/original/834455_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CT8532",
+        "release_date": "08-25-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-air-jordan-4-retro-vivid-sulfur-aq9129-101",
+        "title": "Wmns Air Jordan 4 Retro 'Vivid Sulfur'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$169",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/381/269/original/1258849_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/381/268/original/1258849_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/381/274/original/1258849_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/381/267/original/1258849_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/381/270/original/1258849_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/381/265/original/1258849_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/381/266/original/1258849_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/099/381/271/original/1258849_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "AQ9129",
+        "release_date": "04-07-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-bred-reimagined-fv5029-006",
+        "title": "Air Jordan 4 Retro 'Bred Reimagined'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$199",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/777/584/original/1293064_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/777/585/original/1293064_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/198/original/1293064_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/199/original/1293064_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/203/original/1293064_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/211/original/1293064_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/212/original/1293064_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/097/301/213/original/1293064_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FV5029",
+        "release_date": "02-18-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/travis-scott-x-air-jordan-4-retro-cactus-jack-308497-406",
+        "title": "Travis Scott x Air Jordan 4 Retro 'Cactus Jack'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$890",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/714/432/original/365514_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/714/429/original/365514_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/714/427/original/365514_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/714/428/original/365514_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/714/426/original/365514_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/714/425/original/365514_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/714/424/original/365514_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/714/423/original/365514_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "308497",
+        "release_date": "06-10-2018"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-air-jordan-4-retro-seafoam-hv0823-003",
+        "title": "Wmns Air Jordan 4 Retro 'Abundance / Seafoam'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$164",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/394/277/original/1411287_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/394/280/original/1411287_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/394/281/original/1411287_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/394/278/original/1411287_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/676/755/original/1411287_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/394/285/original/1411287_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/394/283/original/1411287_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/108/394/284/original/1411287_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "HV0823",
+        "release_date": "03-09-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-lightning-2021-ct8527-700",
+        "title": "Air Jordan 4 Retro 'Lightning' 2021",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$249",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/005/415/original/704168_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/005/416/original/704168_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/005/412/original/704168_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/005/411/original/704168_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/005/409/original/704168_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/005/410/original/704168_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/005/403/original/704168_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/058/005/400/original/704168_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CT8527",
+        "release_date": "08-29-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-oreo-ct8527-100",
+        "title": "Air Jordan 4 Retro 'White Oreo'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$429",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/702/197/original/697107_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/702/200/original/697107_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/702/219/original/697107_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/702/220/original/697107_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/702/221/original/697107_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/702/224/original/697107_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/702/239/original/697107_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/702/238/original/697107_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CT8527",
+        "release_date": "07-04-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-oxidized-green-fq8138-103",
+        "title": "Air Jordan 4 Retro 'Oxidized Green'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$167",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/079/915/original/1308085_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/079/914/original/1308085_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/079/916/original/1308085_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/079/922/original/1308085_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/079/919/original/1308085_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/079/923/original/1308085_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/079/917/original/1308085_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/101/079/921/original/1308085_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "FQ8138",
+        "release_date": "06-16-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-military-black-dh6927-111",
+        "title": "Air Jordan 4 Retro 'Military Black'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$240",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/333/264/original/895934_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/333/265/original/895934_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/333/262/original/895934_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/333/261/original/895934_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/333/259/original/895934_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/333/260/original/895934_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/333/257/original/895934_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/333/256/original/895934_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "DH6927",
+        "release_date": "05-22-2022"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/air-jordan-4-retro-university-blue-ct8527-400",
+        "title": "Air Jordan 4 Retro 'University Blue'",
+        "brand": "Air Jordan",
+        "model": "Air Jordan 4",
+        "price": "$418",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/575/404/original/631510_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/575/415/original/631510_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/575/406/original/631510_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/575/403/original/631510_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/575/413/original/631510_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/575/412/original/631510_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/575/416/original/631510_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/100/575/420/original/631510_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "CT8527",
+        "release_date": "04-29-2021"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/abzorb-2000-black-grey-u2000ea",
+        "title": "ABZORB 2000 'Black Dark Silver'",
+        "brand": "New Balance",
+        "model": "ABZORB 2000",
+        "price": "$180",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/732/489/original/U2000EA.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/163/711/original/U992GB.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/107/176/999/original/1540683_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/058/281/122/original/793108_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/058/631/189/original/793107_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/830/549/original/1255276_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/109/573/276/original/1480106_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/103/067/316/original/1029570_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "U2000EANicknameBlack",
+        "release_date": "07-11-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/abzorb-2000-dragon-berry-u2000db",
+        "title": "ABZORB 2000 'Dragon Berry'",
+        "brand": "New Balance",
+        "model": "ABZORB 2000",
+        "price": "$201",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/167/643/original/U2000DB.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/163/711/original/U992GB.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/107/176/999/original/1540683_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/058/281/122/original/793108_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/058/631/189/original/793107_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/830/549/original/1255276_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/109/573/276/original/1480106_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/103/067/316/original/1029570_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "U2000DBNicknameDragon",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-shox-r4-barely-rose-metallic-platinum-ar3565-600",
+        "title": "Wmns Shox R4 'Barely Rose Metallic Platinum'",
+        "brand": "Nike",
+        "model": "Shox R4",
+        "price": "$164",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/108/931/480/original/AR3565_600.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/787/352/original/1527033_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/096/977/210/original/537103_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/258/642/original/1621607_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/063/456/488/original/585320_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/860/368/original/1593181_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/100/074/742/original/712867_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/108/755/866/original/1434912_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "AR3565",
+        "release_date": "03-15-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/shox-r4-gs-metallic-silver-psychic-blue-cw2626-004",
+        "title": "Shox R4 'Metallic Silver Psychic Blue'",
+        "brand": "Nike",
+        "model": "Shox R4",
+        "price": "$162",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/016/580/original/CW2626_004.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/787/352/original/1527033_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/096/977/210/original/537103_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/258/642/original/1621607_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/063/456/488/original/585320_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/860/368/original/1593181_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/100/074/742/original/712867_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/108/755/866/original/1434912_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "CW2626",
+        "release_date": "04-02-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-shox-r4-sail-fauna-brown-ar3565-104",
+        "title": "Wmns Shox R4 'Sail Fauna Brown'",
+        "brand": "Nike",
+        "model": "Shox R4",
+        "price": "$175",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/107/987/432/original/AR3565_104.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/787/352/original/1527033_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/096/977/210/original/537103_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/258/642/original/1621607_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/063/456/488/original/585320_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/860/368/original/1593181_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/100/074/742/original/712867_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/108/755/866/original/1434912_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "AR3565",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-shox-r4-off-noir-ironstone-ar3565-007",
+        "title": "Wmns Shox R4 'Off Noir Ironstone'",
+        "brand": "Nike",
+        "model": "Shox R4",
+        "price": "$159",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/679/original/1505407_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/675/original/1505407_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/677/original/1505407_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/680/original/1505407_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/712/original/1505407_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/710/original/1505407_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/709/original/1505407_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/711/original/1505407_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "AR3565",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/shox-r4-bright-mandarin-hq1988-003",
+        "title": "Shox R4 'Bright Mandarin'",
+        "brand": "Nike",
+        "model": "Shox R4",
+        "price": "$166",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/107/163/130/original/HQ1988_003.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/787/352/original/1527033_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/096/977/210/original/537103_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/258/642/original/1621607_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/063/456/488/original/585320_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/860/368/original/1593181_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/100/074/742/original/712867_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/108/755/866/original/1434912_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "HQ1988",
+        "release_date": "03-21-2025"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wmns-shox-r4-phantom-picante-red-ar3565-103",
+        "title": "Wmns Shox R4 'Phantom Picante Red'",
+        "brand": "Nike",
+        "model": "Shox R4",
+        "price": "$171",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/107/552/431/original/AR3565_103.png.png?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/787/352/original/1527033_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/096/977/210/original/537103_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/111/258/642/original/1621607_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/063/456/488/original/585320_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/110/860/368/original/1593181_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/100/074/742/original/712867_00.png.png?width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/108/755/866/original/1434912_00.png.png?width=750"
+        ],
+        "description": "",
+        "sku": "AR3565",
+        "release_date": ""
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wrpd-runner-pastel-pack-electric-yellow-uwrpdsfb",
+        "title": "WRPD Runner 'Pastel Pack - Limelight'",
+        "brand": "New Balance",
+        "model": "WRPD Runner",
+        "price": "$89",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/535/original/1407437_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/534/original/1407437_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/564/original/1407437_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/560/original/1407437_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/563/original/1407437_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/562/original/1407437_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/565/original/1407437_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/107/790/566/original/1407437_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "UWRPDSFBNicknamePastel",
+        "release_date": "05-02-2024"
+      },
+      {
+        "url": "https://www.goat.com/sneakers/wrpd-runner-green-black-uwprdkom",
+        "title": "WRPD Runner 'Green Phantom'",
+        "brand": "New Balance",
+        "model": "WRPD Runner",
+        "price": "$109",
+        "images": [
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/910/075/original/1287268_01.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/910/077/original/1287268_02.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/910/076/original/1287268_03.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/910/078/original/1287268_04.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/910/083/original/1287268_05.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/910/081/original/1287268_06.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/910/082/original/1287268_07.jpg.jpeg?action=crop&width=750",
+          "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/096/910/084/original/1287268_08.jpg.jpeg?action=crop&width=750"
+        ],
+        "description": "",
+        "sku": "UWRPDKOMNicknameGreen",
+        "release_date": "10-19-2023"
+      }
+] 
